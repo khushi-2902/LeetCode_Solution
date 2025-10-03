@@ -1,14 +1,20 @@
 # LeetCode Solutions 📚
 This repository contains my **LeetCode solutions in Java**, organized by topic. It demonstrates my **problem-solving skills** and understanding of **DSA concepts**.
 
-## **Today’s Push: Arrays**
+## **Daily Push Log**
+
+### 📅 30 Sept 2025
 | Problem Name | Difficulty | Link | Notes |
 |--------------|------------|------|-------|
-| Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) | HashMap approach, O(n) |
-| Maximum Subarray | Easy | [Link](https://leetcode.com/problems/maximum-subarray/) | Kadane’s Algorithm |
-| Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | Reverse Array method |
-| Best Time to Buy & Sell Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Track min price, O(n) |
-| Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | Two-pointer approach |
+| Evaluate Reverse Polish Notation | Medium | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack approach, O(n) |
+| Single Element in a Sorted Array | Medium | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Binary search idea |
+
+### 📅 29 Sept 2025
+| Problem Name | Difficulty | Link | Notes |
+|--------------|------------|------|-------|
+| Find All Duplicates in an Array | Medium | [Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Cyclic sort, O(n) |
+
+
 
 ## **Structure**
 - Each folder contains problems of a **specific topic**.  
@@ -35,9 +41,8 @@ Copy code
 java two_sum
 Repeat compile & run steps for any other file in the folder.
 
-Stats (Optional)
 
-Total Problems Solved: 200+
+
 
 Topics: Arrays, Strings, LinkedLists, Trees, Dynamic Programming, etc.
 
@@ -45,4 +50,5 @@ Language: Java
 
 
 Contact
-Connect with me: 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/garg-khushi/)
+
