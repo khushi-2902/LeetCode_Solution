@@ -47,21 +47,16 @@ java two_sum
 👉 Repeat steps 3 & 4 for any other file in the repository.
 
 
-Topics
+## **Topics**
 Arrays
-
 Strings
-
 LinkedLists
-
 Trees
-
 Dynamic Programming
-
 And more...
 
-Language
+**Language**
 Java ☕
 
-Contact
+**Contact**
 📌 Connect with me on LinkedIn:https://www.linkedin.com/in/garg-khushi/
