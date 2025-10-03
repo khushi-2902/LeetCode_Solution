@@ -26,7 +26,7 @@ This repository contains my **LeetCode solutions in Java**, organized by topic. 
 git clone https://github.com/<your-username>/leetcode-solutions.git
 
 Navigate to the topic folder:
-bash
+```bash
 Copy code
 cd leetcode-solutions/Arrays
 
