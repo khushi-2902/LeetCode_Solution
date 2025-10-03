@@ -27,7 +27,7 @@ This repository contains my **LeetCode solutions in Java**, organized by topic. 
 
 ## **How to Run**
 1. **Clone the repository:**  
-```bash
+
 git clone https://github.com/<your-username>/leetcode-solutions.git
 Navigate to the topic folder:
 
@@ -46,6 +46,7 @@ Copy code
 java two_sum
 👉 Repeat steps 3 & 4 for any other file in the repository.
 
+
 Topics
 Arrays
 
@@ -63,4 +64,4 @@ Language
 Java ☕
 
 Contact
-📌 Connect with me on LinkedIn
+📌 Connect with me on LinkedIn:https://www.linkedin.com/in/garg-khushi/
