@@ -60,3 +60,15 @@ Java ☕
 
 **Contact**
 📌 Connect with me on LinkedIn:https://www.linkedin.com/in/garg-khushi/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
