@@ -69,10 +69,12 @@ Java ☕
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
 | [0879-profitable-schemes](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0879-profitable-schemes) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +84,20 @@ Java ☕
 |  |
 | ------- |
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
+## Binary Search
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Sorting
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Prefix Sum
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Ordered Set
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
