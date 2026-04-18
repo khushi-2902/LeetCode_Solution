@@ -110,4 +110,8 @@ Java ☕
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Math
+|  |
+| ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
