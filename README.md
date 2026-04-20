@@ -70,6 +70,7 @@ Java ☕
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
 | [0879-profitable-schemes](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0879-profitable-schemes) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ Java ☕
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
