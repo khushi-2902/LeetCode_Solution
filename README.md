@@ -74,11 +74,13 @@ Java ☕
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Java ☕
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 ## Ordered Set
 |  |
 | ------- |
