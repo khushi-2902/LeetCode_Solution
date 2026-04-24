@@ -68,6 +68,7 @@ Java ☕
 | ------- |
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
 | [0879-profitable-schemes](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0879-profitable-schemes) |
@@ -87,6 +88,7 @@ Java ☕
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
 | [0879-profitable-schemes](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0879-profitable-schemes) |
 ## Matrix
@@ -151,6 +153,7 @@ Java ☕
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
