@@ -75,6 +75,7 @@ Java ☕
 | [0879-profitable-schemes](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0879-profitable-schemes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1732-find-the-highest-altitude](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -113,6 +114,7 @@ Java ☕
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1732-find-the-highest-altitude) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
 ## Ordered Set
