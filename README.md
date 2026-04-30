@@ -160,6 +160,7 @@ Java ☕
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0743-network-delay-time) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Java ☕
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -189,4 +191,12 @@ Java ☕
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
