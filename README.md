@@ -206,6 +206,7 @@ Java ☕
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0061-rotate-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
