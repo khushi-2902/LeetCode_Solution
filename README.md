@@ -80,6 +80,7 @@ Java ☕
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1914-cyclically-rotating-a-grid](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -105,6 +106,7 @@ Java ☕
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1914-cyclically-rotating-a-grid](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1914-cyclically-rotating-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,4 +223,8 @@ Java ☕
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
