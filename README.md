@@ -227,4 +227,8 @@ Java ☕
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1914-cyclically-rotating-a-grid) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
