@@ -231,4 +231,5 @@ Java ☕
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0184-department-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
