@@ -78,6 +78,7 @@ Java ☕
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1914-cyclically-rotating-a-grid](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1914-cyclically-rotating-a-grid) |
@@ -118,6 +119,7 @@ Java ☕
 | ------- |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Prefix Sum
 |  |
@@ -133,6 +135,7 @@ Java ☕
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Heap (Priority Queue)
 |  |
