@@ -69,6 +69,7 @@ Java ☕
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0322-coin-change) |
@@ -118,6 +119,7 @@ Java ☕
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
