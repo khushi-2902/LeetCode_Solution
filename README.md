@@ -241,5 +241,6 @@ Java ☕
 | [0511-game-play-analysis-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1251-average-selling-price](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1251-average-selling-price) |
+| [1667-fix-names-in-a-table](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
