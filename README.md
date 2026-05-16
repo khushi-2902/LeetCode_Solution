@@ -240,6 +240,7 @@ Java ☕
 | [0185-department-top-three-salaries](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0185-department-top-three-salaries) |
 | [0511-game-play-analysis-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0626-exchange-seats](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0626-exchange-seats) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1251-average-selling-price) |
 | [1667-fix-names-in-a-table](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
