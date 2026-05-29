@@ -243,6 +243,7 @@ Java ☕
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0185-department-top-three-salaries) |
