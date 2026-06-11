@@ -228,6 +228,7 @@ Java ☕
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1669-merge-in-between-linked-lists) |
@@ -235,6 +236,7 @@ Java ☕
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 ## Counting
 |  |
 | ------- |
