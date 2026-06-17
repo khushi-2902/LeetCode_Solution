@@ -153,6 +153,7 @@ Java ☕
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0060-permutation-sequence) |
 | [3783-mirror-distance-of-an-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
@@ -240,6 +241,7 @@ Java ☕
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0060-permutation-sequence) |
 ## Counting
 |  |
 | ------- |
