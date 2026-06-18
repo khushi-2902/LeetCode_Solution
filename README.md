@@ -69,6 +69,7 @@ Java ☕
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
@@ -95,6 +96,7 @@ Java ☕
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -109,6 +111,7 @@ Java ☕
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
@@ -270,6 +273,7 @@ Java ☕
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
