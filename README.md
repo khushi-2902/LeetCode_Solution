@@ -74,6 +74,7 @@ Java ☕
 | [0040-combination-sum-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
+| [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0322-coin-change) |
@@ -98,6 +99,7 @@ Java ☕
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
@@ -105,6 +107,7 @@ Java ☕
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
 | [0879-profitable-schemes](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0879-profitable-schemes) |
@@ -171,11 +174,13 @@ Java ☕
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Depth-First Search
 |  |
@@ -276,4 +281,8 @@ Java ☕
 | [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
