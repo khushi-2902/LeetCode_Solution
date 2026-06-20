@@ -69,6 +69,7 @@ Java ☕
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
@@ -124,6 +125,7 @@ Java ☕
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
