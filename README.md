@@ -67,6 +67,7 @@ Java ☕
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -125,6 +126,7 @@ Java ☕
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -289,4 +291,8 @@ Java ☕
 |  |
 | ------- |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
