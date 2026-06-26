@@ -104,6 +104,7 @@ Java ☕
 | [0138-copy-list-with-random-pointer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
@@ -255,6 +256,7 @@ Java ☕
 | [0138-copy-list-with-random-pointer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
 | [1669-merge-in-between-linked-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
@@ -305,6 +307,7 @@ Java ☕
 | ------- |
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -313,4 +316,5 @@ Java ☕
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
