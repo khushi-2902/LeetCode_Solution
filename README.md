@@ -76,6 +76,7 @@ Java ☕
 | [0040-combination-sum-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
@@ -233,10 +234,12 @@ Java ☕
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 ## Tree
 |  |
 | ------- |
