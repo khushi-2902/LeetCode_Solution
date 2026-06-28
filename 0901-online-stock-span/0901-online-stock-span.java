@@ -1,9 +1,18 @@
 class StockSpanner {
 
+    class Node
+    {
+        int pr;
+        int value;
+        Node(int pr,int value)
+        {
+            this.pr=pr;
+            this.value=value;
+        }
+    }
 
-
-    public Stack<Integer> s;
-    HashMap<Integer,Integer> hm=new HashMap<>();
+    public Stack<Node> s;
+   
     public StockSpanner() {
          s=new Stack<>();
     
@@ -15,22 +24,22 @@ class StockSpanner {
     public int next(int price) {
         int ans=0;
         
-        if(s.isEmpty() || s.peek()>price)
+        if(s.isEmpty() || s.peek().pr>price)
         {
-            hm.put(price,1);
-            s.push(price);
+            
+            s.push(new Node(price,1));
             return 1;
 
         }
         else
         {
-            while(!s.isEmpty() && s.peek()<=price)
+            while(!s.isEmpty() && s.peek().pr<=price)
             {
-                ans+=hm.get(s.peek());
+                ans+=s.peek().value;
                 s.pop();
             }
-            hm.put(price,ans+1);
-            s.push(price);
+            
+            s.push(new Node(price,ans+1));
           
         }
         return ans+1;
