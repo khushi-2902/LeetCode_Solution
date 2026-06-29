@@ -101,6 +101,7 @@ Java ☕
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
@@ -171,6 +172,7 @@ Java ☕
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0060-permutation-sequence) |
 | [3783-mirror-distance-of-an-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -186,6 +188,7 @@ Java ☕
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
