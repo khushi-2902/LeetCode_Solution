@@ -193,6 +193,7 @@ Java ☕
 | [0014-longest-common-prefix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
+| [0686-repeated-string-match](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0686-repeated-string-match) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Trie
 |  |
@@ -332,4 +333,8 @@ Java ☕
 | ------- |
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
