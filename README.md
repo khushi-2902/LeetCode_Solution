@@ -68,6 +68,7 @@ Java ☕
 | ------- |
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -189,12 +190,14 @@ Java ☕
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Depth-First Search
