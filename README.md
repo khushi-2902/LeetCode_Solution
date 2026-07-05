@@ -108,6 +108,7 @@ Java ☕
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
@@ -144,6 +145,7 @@ Java ☕
 | [0018-4sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -215,6 +217,7 @@ Java ☕
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0743-network-delay-time) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -225,6 +228,7 @@ Java ☕
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0743-network-delay-time) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
@@ -260,11 +264,13 @@ Java ☕
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
