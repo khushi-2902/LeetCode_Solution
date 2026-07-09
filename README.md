@@ -217,6 +217,7 @@ Java ☕
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -258,6 +259,7 @@ Java ☕
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -272,6 +274,7 @@ Java ☕
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -282,6 +285,7 @@ Java ☕
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -292,6 +296,7 @@ Java ☕
 | [0002-add-two-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
