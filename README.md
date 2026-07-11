@@ -216,6 +216,7 @@ Java ☕
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -274,6 +275,7 @@ Java ☕
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
@@ -288,6 +290,7 @@ Java ☕
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
@@ -384,6 +387,7 @@ Java ☕
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
