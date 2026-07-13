@@ -206,6 +206,7 @@ Java ☕
 | [0038-count-and-say](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0165-compare-version-numbers) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0686-repeated-string-match](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0686-repeated-string-match) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -225,6 +226,7 @@ Java ☕
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -238,6 +240,7 @@ Java ☕
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -291,6 +294,7 @@ Java ☕
 | [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -310,6 +314,7 @@ Java ☕
 | [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -383,6 +388,7 @@ Java ☕
 | [0155-min-stack](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0901-online-stock-span) |
 ## Data Stream
