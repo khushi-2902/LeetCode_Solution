@@ -267,6 +267,7 @@ Java ☕
 | [0084-largest-rectangle-in-histogram](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -285,6 +286,7 @@ Java ☕
 | [0110-balanced-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -302,6 +304,7 @@ Java ☕
 | [0110-balanced-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -374,6 +377,7 @@ Java ☕
 | ------- |
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0901-online-stock-span) |
@@ -396,8 +400,13 @@ Java ☕
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
