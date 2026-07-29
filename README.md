@@ -372,6 +372,7 @@ Java ☕
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0608-tree-node](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1174-immediate-food-delivery-ii) |
