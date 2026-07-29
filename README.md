@@ -373,6 +373,7 @@ Java ☕
 | [0608-tree-node](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0626-exchange-seats) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1251-average-selling-price) |
 | [1667-fix-names-in-a-table](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1729-find-followers-count) |
