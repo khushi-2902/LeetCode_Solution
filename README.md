@@ -379,6 +379,7 @@ Java ☕
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1729-find-followers-count) |
 ## Backtracking
