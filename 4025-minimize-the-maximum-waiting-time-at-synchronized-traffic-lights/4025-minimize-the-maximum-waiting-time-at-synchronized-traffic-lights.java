@@ -1,6 +1,6 @@
 class Solution {
     public int minPenalty(int period, int[] lights, int[] arrivalTime) {
-        Arrays.sort(lights);
+       
        PriorityQueue<int[]> pq = new PriorityQueue<>(
     (a, b) -> Integer.compare(a[0], b[0])
 );
