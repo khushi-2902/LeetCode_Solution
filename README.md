@@ -71,6 +71,7 @@ Java ☕
 | [0014-longest-common-prefix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0039-combination-sum) |
@@ -196,6 +197,7 @@ Java ☕
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0165-compare-version-numbers) |
