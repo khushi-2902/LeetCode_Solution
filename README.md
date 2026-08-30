@@ -388,6 +388,7 @@ Java ☕
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1729-find-followers-count) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Backtracking
 |  |
 | ------- |
