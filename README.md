@@ -376,6 +376,7 @@ Java ☕
 | [0185-department-top-three-salaries](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0185-department-top-three-salaries) |
 | [0511-game-play-analysis-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0595-big-countries](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1045-customers-who-bought-all-products) |
