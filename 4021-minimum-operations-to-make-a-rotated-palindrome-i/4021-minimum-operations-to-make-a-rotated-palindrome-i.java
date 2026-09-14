@@ -1,43 +1,26 @@
 class Solution {
     public int minOperations(String s) {
-        
+        int n = s.length();
+        int min = Integer.MAX_VALUE;
 
-        int mid=s.length()/2;
-        int n=s.length()-1;
-       
-        int min=Integer.MAX_VALUE;
-        int count=0;
-        int rotations=0;
-        for(int k=0;k<=n;k++)
-        {
-           count=0;
-         String str=rotate(s,k);
-         if(k!=0)
-         {
-          rotations++;
-         }
-        for(int i=0;i<mid;i++)
-        {
-            char ch=str.charAt(i);
-            char ch1=str.charAt(n-i);
-            int diff=Math.abs(ch-ch1);
+        for (int k = 0; k < n; k++) {
 
-            count+=Math.min(diff,26-diff);
-           
+            int count = k;  // k left rotations
+
+            for (int i = 0; i < n / 2; i++) {
+
+                // Characters at mirrored positions after rotation
+                char ch1 = s.charAt((i + k) % n);
+                char ch2 = s.charAt((n - 1 - i + k) % n);
+
+                int diff = Math.abs(ch1 - ch2);
+
+                count += Math.min(diff, 26 - diff);
+            }
+
+            min = Math.min(min, count);
         }
-        count+=rotations;
-        min=Math.min(min,count);
-        }
+
         return min;
-    }
-    public String rotate(String s,int k)
-    {
-
-        k = k % s.length();
-
-        String rotated = s.substring(k) + s.substring(0, k);
-
-        return rotated;
-
     }
 }
