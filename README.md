@@ -192,6 +192,7 @@ Java ☕
 | [0013-roman-to-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0060-permutation-sequence) |
 | [3783-mirror-distance-of-an-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/3783-mirror-distance-of-an-integer) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Java ☕
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0686-repeated-string-match](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0686-repeated-string-match) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Trie
 |  |
 | ------- |
@@ -450,4 +452,8 @@ Java ☕
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
