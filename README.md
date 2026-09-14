@@ -103,6 +103,7 @@ Java ☕
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
+| [4020-elevator-requests-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/4020-elevator-requests-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/khushi-2902/LeetCode_Solution/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
 |  |
@@ -366,6 +367,7 @@ Java ☕
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1914-cyclically-rotating-a-grid) |
+| [4020-elevator-requests-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/4020-elevator-requests-i) |
 ## Database
 |  |
 | ------- |
