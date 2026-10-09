@@ -458,4 +458,8 @@ Java ☕
 |  |
 | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
