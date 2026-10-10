@@ -77,6 +77,7 @@ Java ☕
 | [0039-combination-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -112,6 +113,7 @@ Java ☕
 | [0001-two-sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -157,6 +159,7 @@ Java ☕
 | ------- |
 | [0015-3sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -217,6 +220,7 @@ Java ☕
 | [0014-longest-common-prefix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0165-compare-version-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
