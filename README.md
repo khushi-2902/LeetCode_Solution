@@ -91,6 +91,7 @@ Java ☕
 | [0540-single-element-in-a-sorted-array](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0741-cherry-pickup) |
+| [0846-hand-of-straights](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0846-hand-of-straights) |
 | [0879-profitable-schemes](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0879-profitable-schemes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -122,6 +123,7 @@ Java ☕
 | [0146-lru-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0846-hand-of-straights](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -164,6 +166,7 @@ Java ☕
 | [0049-group-anagrams](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
+| [0846-hand-of-straights](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -182,6 +185,7 @@ Java ☕
 ## Greedy
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
