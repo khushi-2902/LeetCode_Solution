@@ -94,6 +94,7 @@ Java ☕
 | [0879-profitable-schemes](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0879-profitable-schemes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -122,6 +123,7 @@ Java ☕
 | [0460-lfu-cache](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2615-sum-of-distances](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2615-sum-of-distances) |
@@ -163,6 +165,7 @@ Java ☕
 | [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -179,6 +182,7 @@ Java ☕
 ## Greedy
 |  |
 | ------- |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
