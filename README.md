@@ -194,6 +194,7 @@ Java ☕
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0743-network-delay-time) |
@@ -359,6 +360,7 @@ Java ☕
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -421,6 +423,7 @@ Java ☕
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Design
@@ -474,4 +477,12 @@ Java ☕
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0056-merge-intervals) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
