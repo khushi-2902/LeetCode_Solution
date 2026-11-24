@@ -235,6 +235,7 @@ Java ☕
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0399-evaluate-division) |
 | [0686-repeated-string-match](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0686-repeated-string-match) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khushi-2902/LeetCode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/khushi-2902/LeetCode_Solution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Trie
@@ -304,6 +305,7 @@ Java ☕
 | [0173-binary-search-tree-iterator](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -485,4 +487,8 @@ Java ☕
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khushi-2902/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushi-2902/LeetCode_Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
